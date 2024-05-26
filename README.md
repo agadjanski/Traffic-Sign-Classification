@@ -10,10 +10,14 @@ Currently supported traffic signs:
 
 The model has four Convolutional Layers, followed by MaxPooling and three Dense Layers
 
-## 2. Results
+## 2. Dataset
+
+Dataset can be found [here](https://www.kaggle.com/datasets/dmitryyemelyanov/chinese-traffic-signs)
+
+## 3. Results
 
 The model classifies the signs with 98% accuracy
 
-## 3. Future Improvements
+## 4. Future Improvements
 
 The dataset can be enriched with more types of signs, as well as modifying existing images by rotating/skewing them or just adding more data.
